@@ -1,4 +1,4 @@
-# Coloring-the-Photos-
+# Coloring-the-grayscale-Photos-
 The dataset contains the photos of pokemons.
 But we can train it for any tipe of photos.
 We take the colored image and teach the machine how to color different type of pokemons.
