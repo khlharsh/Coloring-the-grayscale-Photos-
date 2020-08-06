@@ -5,4 +5,4 @@ We take the colored image and teach the machine how to color different type of p
 For the testing purpose we give the black and white photos and machine has to color it accordingly.
 
 
-Data set for the Pokemon photos is available on kaggle
+Data set for the Pokemon photos is available on kaggle(https://www.kaggle.com/thedagger/pokemon-generation-one)
